@@ -1,0 +1,46 @@
+body {
+	font-family: arial;
+	font-size: 15px;
+}
+
+#bio-image {
+	width: 200px;
+	height: 200px;
+}
+
+.top-name {
+	color
+	background-color: green;
+	padding-left: 50px;
+	float: left;
+}
+
+.top-nav {
+clear: both;
+}
+
+#bio-image {
+	float: left;
+	padding-right: 20px;
+	padding-left: 15px;
+	padding-bottom: 15px;
+}
+
+.bio {
+	background-color: gray;
+	float:left;
+	width: 60%;
+}
+
+.contact-info {
+	margin-left: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	width: 30%;
+	float: left;
+	background-color: gray;
+}
+
+#about-me-title {
+	padding-left: 15px;
+}
