@@ -108,13 +108,13 @@ header {
 }
 
 .contact-icons {
-	float: left;
 	position: relative;
 	padding-top: 10px;
 	width: auto;
 	float: left;
 	margin: 0px 12px;
 	text-align: center;
+
 }
 
 a {
@@ -166,4 +166,13 @@ footer {
 	height: 30px;
 	padding-top: 7px;
 	color: white;
+}
+
+.contact-info-form::after {
+    content: " "; /* 1 */
+    display: table;
+}
+
+input,textarea {
+	display: block;
 }
