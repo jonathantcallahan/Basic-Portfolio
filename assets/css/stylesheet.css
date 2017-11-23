@@ -176,3 +176,17 @@ footer {
 input,textarea {
 	display: block;
 }
+
+#form {
+	padding: 15px;
+	line-height: 25px;
+}
+
+#submit-button {
+	margin-top: 10px;
+}
+
+textarea {
+	width: 300px;
+	height: 200px;
+}
